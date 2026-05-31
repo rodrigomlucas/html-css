@@ -1,0 +1,18 @@
+.body{
+
+    background-color: rgb(148, 238, 79);
+
+}
+
+nav{
+
+    display:flex;
+    list-style: none;
+    justify-content: center;
+    margin: 0;
+}
+nav li{
+
+    margin: 0 10px;
+    display: inline-block;
+}

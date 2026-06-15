@@ -1,4 +1,4 @@
 # html-css
 
 
-agora estou apredendo a gerenciar repositorios
+agora estou apredendo a gerenciar repositorios.

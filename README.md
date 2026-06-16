@@ -3,4 +3,4 @@
 
 agora estou apredendo a gerenciar repositorios.
 
-<a href="<a href="https://github.com/rodrigomlucas/html-css/blob/main/desafios/desafi010/android.html">Execute meu Site aqui </a>">
+<a href="https://github.com/rodrigomlucas/html-css/blob/main/desafios/desafi010/android.html">Execute meu Site aqui </a>">

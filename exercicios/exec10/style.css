@@ -1,0 +1,49 @@
+body{
+
+    background-color: yellow;
+}
+
+h1{
+text-align: center;
+color: rgb(5, 80, 255);
+
+
+}
+
+p {
+    font-size: large;
+
+}
+
+.container {
+
+width: 500px;
+margin: auto;
+border: 8px solid blue ;
+border-radius: 18px;
+
+
+
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  
+    
+}
+
+.titulo2
+
+{
+text-align: center;
+color:rgb(179, 255, 0);
+background-color: rgb(255, 11, 56);
+display:block ;
+margin-top: 20px;
+
+
+
+}

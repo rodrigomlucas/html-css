@@ -1,0 +1,42 @@
+nav {
+    display: flex;
+    justify-content: center; /* Alinha os itens ao centro horizontalmente */
+    align-items: center; /* Alinha os itens verticalmente no centro */
+    background-color: #3a3a3a; /* Cor de fundo do menu (ajuste conforme necessário) */
+    padding: 10px; /* Espaçamento interno do menu */
+}
+
+nav ul {
+    list-style-type: none; /* Remove os marcadores das listas */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Faz os itens da lista ficarem lado a lado */
+}
+
+nav ul li {
+    margin: 0 15px; /* Espaçamento entre os itens */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+}
+
+
+
+/*
+Explicação:
+
+display: flex;: Aplica o modelo de layout flexível para o contêiner do nav e do ul, 
+permitindo que os itens sejam colocados lado a lado.
+
+justify-content: center;: Alinha os itens no centro horizontalmente.
+
+align-items: center;: Alinha os itens verticalmente no centro.
+
+list-style-type: none;: Remove os marcadores padrão da lista.
+
+margin e padding: Ajusta o espaçamento entre os itens e o menu.
+Você pode ajustar os valores de margin, padding, e cores conforme a necessidade para se adequar melhor ao seu design.
+*/

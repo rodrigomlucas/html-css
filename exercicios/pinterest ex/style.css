@@ -1,0 +1,21 @@
+body{
+
+    
+}
+
+
+.galeria{
+
+    columns: 200px;
+    margin: 0.5em;
+    column-gap: 0.5em;
+
+
+}
+
+img{
+
+    width: 100%;
+    margin-bottom: 0.5em;
+    border-radius: 10px;
+}
